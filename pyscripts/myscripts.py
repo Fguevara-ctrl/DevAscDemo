@@ -1,3 +1,3 @@
 print("Hello World")
 
-print("Welcome to DevAscDemo")
+print("Welcome to DevAsc")
